@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <!-- Name input -->
+    <string name="name_hint">Insert your name</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="name_greet">Hello</string>
+
+    <!-- Student number input -->
+    <string name="student_hint">Insert your student number</string>
+    <string name="student_error">Student number has to be 11 digits long</string>
+
+    <!-- Button -->
+    <string name="button_name_value">Submit</string>
+</resources>
