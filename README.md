@@ -14,7 +14,7 @@ A simple Android app for MAP 2023/2024 – Module 1.
 1. Open project in **Android Studio**
 2. Run on emulator or phone
 3. Or install the APK from:
-   - `app/build/outputs/apk/debug/app-debug.apk`
+   - `apk/app-debug.apk`
 
 ## Screenshots
 ![Main Screen](screenshots/Screenshot 2025-09-20 214557.png)
