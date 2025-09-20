@@ -17,5 +17,4 @@ A simple Android app for MAP 2023/2024 – Module 1.
    - `app/build/outputs/apk/debug/app-debug.apk`
 
 ## Screenshots
-![Main Screen](screenshots/main_screen.png)
-![Validation](screenshots/validation.png)
+![Main Screen](screenshots/Screenshot 2025-09-20 214557.png)
